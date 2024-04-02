@@ -1,3 +1,3 @@
 cd demo
-echo"polytechnic college">>README.md
+echo"polytechnic college"
 
